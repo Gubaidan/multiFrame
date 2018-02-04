@@ -1,0 +1,20 @@
+2018-04-26 17:08:21 [ INFO ] [ ?.java :?(?)]  using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2018-04-26 17:08:37 [ INFO ] [ Version.java :17(<clinit>)]  HV000001: Hibernate Validator 5.2.2.Final
+2018-04-26 17:08:38 [ INFO ] [ DocumentationPluginsBootstrapper.java :84(onApplicationEvent)]  Context refreshed
+2018-04-26 17:08:38 [ INFO ] [ DocumentationPluginsBootstrapper.java :87(onApplicationEvent)]  Found 1 custom documentation plugin(s)
+2018-04-26 17:08:38 [ INFO ] [ ApiListingReferenceScanner.java :44(scan)]  Scanning for api listing references
+2018-04-26 17:10:12 [ INFO ] [ ?.java :?(?)]  using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2018-04-26 17:10:17 [ WARN ] [ ReferenceConfig$1.java :93(finalize)]   [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.5.6, current host: 127.0.0.1
+2018-04-26 17:10:17 [ WARN ] [ ReferenceConfig$1.java :93(finalize)]   [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.5.6, current host: 127.0.0.1
+2018-04-26 17:10:17 [ WARN ] [ ReferenceConfig$1.java :93(finalize)]   [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.5.6, current host: 127.0.0.1
+2018-04-26 17:10:17 [ WARN ] [ ReferenceConfig$1.java :93(finalize)]   [DUBBO] ReferenceConfig(null) is not DESTROYED when FINALIZE, dubbo version: 2.5.6, current host: 127.0.0.1
+2018-04-26 17:10:18 [ INFO ] [ Version.java :17(<clinit>)]  HV000001: Hibernate Validator 5.2.2.Final
+2018-04-26 17:10:20 [ INFO ] [ DocumentationPluginsBootstrapper.java :84(onApplicationEvent)]  Context refreshed
+2018-04-26 17:10:20 [ INFO ] [ DocumentationPluginsBootstrapper.java :87(onApplicationEvent)]  Found 1 custom documentation plugin(s)
+2018-04-26 17:10:20 [ INFO ] [ ApiListingReferenceScanner.java :44(scan)]  Scanning for api listing references
+2018-04-26 17:10:32 [ INFO ] [ Version.java :17(<clinit>)]  HV000001: Hibernate Validator 5.2.2.Final
+2018-04-26 17:10:34 [ INFO ] [ DocumentationPluginsBootstrapper.java :84(onApplicationEvent)]  Context refreshed
+2018-04-26 17:10:34 [ INFO ] [ DocumentationPluginsBootstrapper.java :87(onApplicationEvent)]  Found 1 custom documentation plugin(s)
+2018-04-26 17:10:34 [ INFO ] [ ApiListingReferenceScanner.java :44(scan)]  Scanning for api listing references
+2018-04-26 17:10:34 [ INFO ] [ AbstractConfig$1.java :80(run)]   [DUBBO] Run shutdown hook now., dubbo version: 2.5.6, current host: 127.0.0.1
+2018-04-26 17:10:34 [ INFO ] [ AbstractRegistryFactory.java :64(destroyAll)]   [DUBBO] Close all registries [], dubbo version: 2.5.6, current host: 127.0.0.1
