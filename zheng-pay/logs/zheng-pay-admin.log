@@ -1,0 +1,4 @@
+2018-04-26 20:49:52 [ INFO ] [ Version.java :17(<clinit>)]  HV000001: Hibernate Validator 5.2.2.Final
+2018-04-26 20:49:54 [ INFO ] [ DocumentationPluginsBootstrapper.java :84(onApplicationEvent)]  Context refreshed
+2018-04-26 20:49:54 [ INFO ] [ DocumentationPluginsBootstrapper.java :87(onApplicationEvent)]  Found 1 custom documentation plugin(s)
+2018-04-26 20:49:54 [ INFO ] [ ApiListingReferenceScanner.java :44(scan)]  Scanning for api listing references
