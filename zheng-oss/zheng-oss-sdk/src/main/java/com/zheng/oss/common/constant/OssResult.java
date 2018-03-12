@@ -12,4 +12,8 @@ public class OssResult extends BaseResult {
         super(ossResultConstant.getCode(), ossResultConstant.getMessage(), data);
     }
 
+
+
+
+
 }
