@@ -12,6 +12,10 @@ public class OssConstant extends BaseConstants {
 	// endpoint
 	public static final String ALIYUN_OSS_ENDPOINT = PropertiesFileUtil.getInstance("config").get("aliyun.oss.endpoint");
 
+
+
+
+
 	// bucketName
 	public static final String ALIYUN_OSS_BUCKET_NAME = PropertiesFileUtil.getInstance("config").get("aliyun.oss.bucketName");
 
