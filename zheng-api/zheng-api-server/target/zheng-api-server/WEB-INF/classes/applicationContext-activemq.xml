@@ -10,6 +10,8 @@
         <property name="brokerURL" value="failover:(tcp://mqserver:61616?wireFormat.maxInactivityDuration=0)"/>
         <property name="useAsyncSend" value="true"/>
     </bean>
+    </bean>
+    </bean>
     <bean id="connectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
         <property name="targetConnectionFactory" ref="activeMqConnectionFactory"/>
         <property name="sessionCacheSize" value="100"/>
