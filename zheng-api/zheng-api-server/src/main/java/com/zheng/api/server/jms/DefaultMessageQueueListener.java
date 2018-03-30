@@ -10,6 +10,8 @@ import javax.jms.MessageListener;
 import javax.jms.TextMessage;
 
 /**
+/**
+/**
  * MQ消费者
  * Created by shuzheng on 2017/2/19.
  */
