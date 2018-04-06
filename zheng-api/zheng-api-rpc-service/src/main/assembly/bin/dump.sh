@@ -11,6 +11,9 @@ LOGS_FILE=`sed '/dubbo.log4j.file/!d;s/.*=//' conf/dubbo.properties | tr -d '\r'
 if [ -z "$SERVER_NAME" ]; then
 	SERVER_NAME=`hostname`
 fi
+fi
+fi
+fi
 
 PIDS=`ps -f | grep java | grep "$CONF_DIR" |awk '{print $2}'`
 if [ -z "$PIDS" ]; then
