@@ -16,6 +16,10 @@ public class OssConstant extends BaseConstants {
 
 
 
+
+
+
+
 	// bucketName
 	public static final String ALIYUN_OSS_BUCKET_NAME = PropertiesFileUtil.getInstance("config").get("aliyun.oss.bucketName");
 
