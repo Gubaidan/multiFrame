@@ -11,4 +11,4 @@
 	<!-- 根目录'/'对应页面 -->
 	<mvc:view-controller path="/" view-name="/index.jsp"/>
 
-</beans>
+</beans></beans></beans></beans></beans>
