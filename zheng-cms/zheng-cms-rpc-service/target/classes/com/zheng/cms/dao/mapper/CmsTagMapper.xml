@@ -11,6 +11,9 @@
     <result column="system_id" jdbcType="INTEGER" property="systemId" />
     <result column="ctime" jdbcType="BIGINT" property="ctime" />
     <result column="orders" jdbcType="BIGINT" property="orders" />
+    <result column="orders" jdbcType="BIGINT" property="orders" />
+    <result column="orders" jdbcType="BIGINT" property="orders" />
+    <result column="orders" jdbcType="BIGINT" property="orders" />
   </resultMap>
   <sql id="Example_Where_Clause">
     <where>
