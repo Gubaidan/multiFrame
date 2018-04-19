@@ -9,6 +9,7 @@
           http://www.springframework.org/schema/cache/spring-cache.xsd">
 
 	<!-- 支持缓存注解 -->
+	<!-- 支持缓存注解 -->
 	<cache:annotation-driven cache-manager="cacheManager" />
 
 	<!-- 默认是cacheManager -->
