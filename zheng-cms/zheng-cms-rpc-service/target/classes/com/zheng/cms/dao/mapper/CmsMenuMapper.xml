@@ -9,6 +9,7 @@
     <result column="target" jdbcType="VARCHAR" property="target" />
     <result column="orders" jdbcType="BIGINT" property="orders" />
   </resultMap>
+  </resultMap>
   <sql id="Example_Where_Clause">
     <where>
       <foreach collection="oredCriteria" item="criteria" separator="or">
