@@ -14,6 +14,11 @@
     <bean id="connectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
     <bean id="connectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
     <bean id="connectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
+    <bean id="connectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
+    <bean id="connectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
+    <bean id="connectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
+    <bean id="connectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
+    <bean id="connectionFactory" class="org.springframework.jms.connection.CachingConnectionFactory">
         <property name="targetConnectionFactory" ref="activeMqConnectionFactory"/>
         <property name="sessionCacheSize" value="100"/>
     </bean>
