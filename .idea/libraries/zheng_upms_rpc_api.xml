@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zheng-upms-rpc-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zheng-demo/zheng-demo-rpc-api/target/zheng-upms-rpc-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

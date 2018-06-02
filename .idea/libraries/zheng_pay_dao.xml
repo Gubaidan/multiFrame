@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zheng-pay-dao">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zheng-pay/zheng-pay-dao/target/zheng-pay-dao.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

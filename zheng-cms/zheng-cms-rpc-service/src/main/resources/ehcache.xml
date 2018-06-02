@@ -12,10 +12,6 @@
         <persistence strategy="localTempSwap"/>
     </defaultCache>
     <cache
-    <cache
-    <cache
-    <cache
-    <cache
             name="zheng-cms-rpc-service-ehcache"
             eternal="false"
             timeToIdleSeconds="120"

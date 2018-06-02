@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zheng-ucenter-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zheng-ucenter/zheng-ucenter-common/target/zheng-ucenter-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

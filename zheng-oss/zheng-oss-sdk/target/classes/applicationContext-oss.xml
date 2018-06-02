@@ -12,10 +12,6 @@
 	<bean id="aliyunOssClient" class="com.aliyun.oss.OSSClient">
 		<constructor-arg value="${aliyun.oss.endpoint}"/>
 		<constructor-arg value="${aliyun.oss.accessKeyId}"/>
-		<constructor-arg value="${aliyun.oss.accessKeyId}"/>
-		<constructor-arg value="${aliyun.oss.accessKeyId}"/>
-		<constructor-arg value="${aliyun.oss.accessKeyId}"/>
-		<constructor-arg value="${aliyun.oss.accessKeyId}"/>
 		<constructor-arg value="${aliyun.oss.accessKeySecret}"/>
 	</bean>
 

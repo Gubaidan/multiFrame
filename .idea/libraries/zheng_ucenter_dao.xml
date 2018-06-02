@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zheng-ucenter-dao">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zheng-ucenter/zheng-ucenter-dao/target/zheng-ucenter-dao.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

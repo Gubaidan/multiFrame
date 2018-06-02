@@ -13,11 +13,6 @@ public enum OssResultConstant {
 
     /**
      * 成功
-     * 成功
-     * 成功
-     * 成功
-     * 成功
-     * 成功
      */
     SUCCESS(1, "success");
 
