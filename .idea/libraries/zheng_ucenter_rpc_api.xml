@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="zheng-ucenter-rpc-api">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/zheng-ucenter/zheng-ucenter-rpc-api/target/zheng-ucenter-rpc-api.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

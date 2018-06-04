@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="zheng-cms-common">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/zheng-cms/zheng-cms-common/target/zheng-cms-common.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

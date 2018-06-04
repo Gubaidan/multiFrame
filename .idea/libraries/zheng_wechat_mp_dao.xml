@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="zheng-wechat-mp-dao">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/zheng-wechat/zheng-wechat-mp/zheng-wechat-mp-dao/target/zheng-wechat-mp-dao.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

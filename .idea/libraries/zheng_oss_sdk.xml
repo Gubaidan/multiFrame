@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="zheng-oss-sdk">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/zheng-oss/zheng-oss-sdk/target/zheng-oss-sdk.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

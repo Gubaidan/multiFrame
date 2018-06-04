@@ -22,6 +22,10 @@
       </list>
     </option>
   </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/zheng-pay/zheng-pay-web/src/main/main19.iml" />
+    <file url="file://$PROJECT_DIR$/zheng-upms/zheng-upms-common/src/main/main25.iml" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="zheng-cms-dao">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/zheng-cms/zheng-cms-dao/target/zheng-cms-dao.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

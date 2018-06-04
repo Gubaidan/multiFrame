@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="zheng-cms-rpc-api">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/zheng-cms/zheng-cms-rpc-api/target/zheng-cms-rpc-api.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

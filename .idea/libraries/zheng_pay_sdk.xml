@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="zheng-pay-sdk">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/zheng-pay/zheng-pay-sdk/target/zheng-pay-sdk.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

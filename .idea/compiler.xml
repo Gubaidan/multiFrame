@@ -7,7 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="zheng-admin" />
-        <module name="zheng-api" />
+        <module name="zheng-api-common" />
+        <module name="zheng-api-rpc-api" />
+        <module name="zheng-api-rpc-service" />
+        <module name="zheng-api-server" />
         <module name="zheng-cms-admin" />
         <module name="zheng-cms-common" />
         <module name="zheng-cms-dao" />
@@ -47,13 +50,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="zheng" target="1.8" />
+      <module name="multiFrame" target="1.7" />
       <module name="zheng-admin" target="1.7" />
-      <module name="zheng-api" target="1.5" />
-      <module name="zheng-api-common" target="1.5" />
-      <module name="zheng-api-rpc-api" target="1.5" />
-      <module name="zheng-api-rpc-service" target="1.5" />
-      <module name="zheng-api-server" target="1.5" />
+      <module name="zheng-api" target="1.7" />
+      <module name="zheng-api-common" target="1.7" />
+      <module name="zheng-api-rpc-api" target="1.7" />
+      <module name="zheng-api-rpc-service" target="1.7" />
+      <module name="zheng-api-server" target="1.7" />
       <module name="zheng-cms" target="1.7" />
       <module name="zheng-cms-admin" target="1.7" />
       <module name="zheng-cms-common" target="1.7" />
