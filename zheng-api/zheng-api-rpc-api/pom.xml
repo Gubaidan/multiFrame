@@ -10,8 +10,6 @@
 
     <artifactId>zheng-api-rpc-api</artifactId>
     <packaging>jar</packaging>
-    <packaging>jar</packaging>
-    <packaging>jar</packaging>
 
     <name>zheng-api-rpc-api</name>
     <url>http://www.zhangshuzheng.cn</url>

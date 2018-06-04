@@ -9,7 +9,6 @@
     </parent>
 
     <artifactId>zheng-api-rpc-service</artifactId>
-    <artifactId>zheng-api-rpc-service</artifactId>
     <packaging>jar</packaging>
 
     <name>zheng-api-rpc-service</name>

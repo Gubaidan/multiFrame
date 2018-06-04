@@ -13,11 +13,6 @@
         <fileSet>
             <directory>src/main/assembly/conf</directory>
             <outputDirectory>conf</outputDirectory>
-            <outputDirectory>conf</outputDirectory>
-            <outputDirectory>conf</outputDirectory>
-            <outputDirectory>conf</outputDirectory>
-            <outputDirectory>conf</outputDirectory>
-            <outputDirectory>conf</outputDirectory>
             <fileMode>0644</fileMode>
         </fileSet>
     </fileSets>

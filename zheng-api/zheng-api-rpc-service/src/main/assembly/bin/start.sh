@@ -12,10 +12,6 @@ SERVER_PORT=`sed '/dubbo.protocol.port/!d;s/.*=//' conf/dubbo.properties | tr -d
 LOGS_FILE=`sed '/dubbo.log4j.file/!d;s/.*=//' conf/dubbo.properties | tr -d '\r'`
 
 if [ -z "$SERVER_NAME" ]; then
-if [ -z "$SERVER_NAME" ]; then
-if [ -z "$SERVER_NAME" ]; then
-if [ -z "$SERVER_NAME" ]; then
-if [ -z "$SERVER_NAME" ]; then
     SERVER_NAME=`hostname`
 fi
 

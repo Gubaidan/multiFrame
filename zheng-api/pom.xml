@@ -11,9 +11,6 @@
         <module>zheng-api-rpc-service</module>
         <module>zheng-api-server</module>
     </modules>
-    </modules>
-    </modules>
-    </modules>
     <packaging>pom</packaging>
 
     <name>zheng-api</name>

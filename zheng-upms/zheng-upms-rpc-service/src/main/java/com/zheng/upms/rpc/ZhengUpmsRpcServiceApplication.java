@@ -1,10 +1,8 @@
 package com.zheng.upms.rpc;
 
-import org.apache.commons.collections.bag.SynchronizedSortedBag;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import redis.clients.jedis.Jedis;
 
 /**
  * 服务启动类
@@ -18,9 +16,6 @@ public class ZhengUpmsRpcServiceApplication {
 		LOGGER.info(">>>>> zheng-upms-rpc-service 正在启动 <<<<<");
 		new ClassPathXmlApplicationContext("classpath:META-INF/spring/*.xml");
 		LOGGER.info(">>>>> zheng-upms-rpc-service 启动完成 <<<<<");
-//		Jedis jedis = new Jedis("localhost");
-//		jedis.set("admin", "111");
-//		System.out.println(jedis.get("admin"));
 	}
 
 }
